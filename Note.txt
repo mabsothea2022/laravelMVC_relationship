@@ -1,0 +1,4 @@
+one-to-one      >hasOne, belongTo
+one-to-many     >haMany, belongTo
+many-to-many    >belongToMany
+===================================
